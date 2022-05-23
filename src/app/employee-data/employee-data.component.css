@@ -1,0 +1,67 @@
+.input-content{
+    background:#F8F3F5;
+    border:none;
+    margin-right:12px;
+    border-radius:5px;
+    padding:5px;
+    width:20%;
+    display:inline-block;
+}
+.p-button{
+    color: #000;
+    background: #fff; 
+    border: 0px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    
+    border-radius: 3px;
+}
+.search-button{
+    color:#000;
+}
+.p-button.p-button-success:enabled:hover{
+    background:#fff;
+    color:#000;
+}
+
+.font-weight-bold{
+    font-weight:bold;
+}
+.employee-photo{
+    width:50px;
+    height:50px;
+}
+.search-section{
+    background:#fff;
+    padding:10px;
+    border-radius: 5px;
+    margin-bottom:10px;
+   
+}
+.table-content{
+    background:#fff;
+}
+.ngx-pagination {
+    padding-left: 0px !important;
+  }
+  
+  .ngx-pagination .current
+  .btn-info {
+    background: #17a2b8 !important;
+    border: transparent !important;
+    border-radius: 20px !important;
+  }
+  
+  .ngx-pagination .current:hover {
+    background: #17a2b8 !important;
+    border-radius: 20px !important; 
+    border: transparent !important;
+  }
+  .pagination ::ng-deep .ngx-pagination .current {
+    background: #AB6EAB;
+}
+.pagination {
+    display: flex;
+    justify-content: space-between;
+  }
+  

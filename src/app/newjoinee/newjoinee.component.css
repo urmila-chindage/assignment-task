@@ -1,0 +1,15 @@
+.font-weight-bold{
+    font-weight:bold;
+}
+.newjoinee-section{
+    background:#fff;
+    padding:10px;
+    border-radius: 5px;
+}
+.employee-photo{
+        width:60px;
+        height:60px;
+    }
+    .card{
+        background:#E5EBEF;
+    }

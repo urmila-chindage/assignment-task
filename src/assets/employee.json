@@ -1,0 +1,313 @@
+[
+    {
+        "id":1,
+        "name":"Tushar Singh",
+        "dept":"Development",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"22-May-2022",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":2,
+        "name":"Sudhir Mehra",
+        "dept":"Admin",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":3,
+        "name":"Shradha M",
+        "dept":"Admin",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":3,
+        "name":"Shradha M",
+        "dept":"Testing",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":4,
+        "name":"Kajal Dhokala",
+        "dept":"Admin",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":5,
+        "name":"Kajal Dhokala",
+        "dept":"Testing",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":6,
+        "name":"Kajal Dhokala",
+        "dept":"Admin",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":7,
+        "name":"Kajal Dhokala",
+        "dept":"Admin",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":8,
+        "name":"Kajal Dhokala",
+        "dept":"Testing",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":9,
+        "name":"Kajal Dhokala",
+        "dept":"Admin",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":10,
+        "name":"Kajal Dhokala",
+        "dept":"Testing",
+        "emailId":"kajal@gmail.com",
+        "designation":"Admin Exe.",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855/9945321678"
+    },
+    {
+        "id":11,
+        "name":"Tushar Singh",
+        "dept":"Development",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":12,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":13,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":14,
+        "name":"Tushar Singh",
+        "dept":"Testing",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":15,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":16,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":17,
+        "name":"Tushar Singh",
+        "dept":"Testing",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":18,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":19,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":20,
+        "name":"Tushar Singh",
+        "dept":"Admin",
+        "emailId":"tusharsingh@gmail.com",
+        "designation":"Senior Prog",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":9867542345
+    },
+    {
+        "id":21,
+        "name":"Sudhir Mehra",
+        "dept":"Development",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":22,
+        "name":"Sudhir Mehra",
+        "dept":"Admin",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":23,
+        "name":"Amit Mehra",
+        "dept":"Admin",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":24,
+        "name":"Sudhir Mehra",
+        "dept":"Admin",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":25,
+        "name":"Choto Mehra",
+        "dept":"Admin",
+        "emailId":"sudhirmehra@gmail.com",
+        "designation":"Marketing",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867542354"
+    },
+    {
+        "id":26,
+        "name":"Shradha M",
+        "dept":"Development",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":27,
+        "name":"Shradha M",
+        "dept":"Admin",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":28,
+        "name":"Shradha M",
+        "dept":"Admin",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":29,
+        "name":"Shradha M",
+        "dept":"Admin",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    },
+    {
+        "id":30,
+        "name":"Shradha M",
+        "dept":"Development",
+        "emailId":"shradha@gmail.com",
+        "designation":"HR",
+        "birthday":"08-Sept-2020",
+        "photo":"assets/photo1.jpg",
+        "mobile":"9867998855"
+    }
+    
+]

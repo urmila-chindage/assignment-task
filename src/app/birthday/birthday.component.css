@@ -1,0 +1,33 @@
+.font-weight-bold{
+    font-weight:bold;
+}
+.birthday-section{
+    background:#fff;
+    padding:10px;
+    border-radius: 5px;
+    color:#000;
+}
+.button-content{
+    background: #fff;
+    padding:5px 10px;
+    border-radius: 30px;
+    border:0px;
+}
+.active{
+    background:#AB6EAB;
+    color:#fff;
+}
+.notactive{
+    background: #fff;
+    color:#000;
+}
+.employee-photo{
+        width:60px;
+        height:60px;
+    }
+    .card{
+        background:#5EB6C3;
+    }
+    
+
+      

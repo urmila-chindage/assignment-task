@@ -1,0 +1,27 @@
+<div class="newjoinee-section">
+    <div class="newjoinee-content mb-3">
+        <span class="font-weight-bold mr-5">New Joinee</span>
+       
+    </div>
+       
+
+<p-carousel [value]="employee" [numVisible]="3" [numScroll]="3" [circular]="false" [autoplayInterval]="3000"  [responsiveOptions]="responsiveOptions">
+    <ng-template pTemplate="header">
+      
+    </ng-template>
+    <ng-template let-emp pTemplate="item">
+       
+            <div class="card text-center mr-3">
+                <p class="p-mb-1">{{emp.birthday}}</p>
+                <div class="p-mb-3">
+                    <img  class="employee-photo" src={{emp.photo}} alt="Employee Photo">
+                </div>
+                <h6 class="p-mt-0 p-mb-3">{{emp.name}}</h6>
+                <span>{{emp.designation}}</span>
+                   
+               
+            </div>
+        
+    </ng-template>
+</p-carousel>
+</div>
